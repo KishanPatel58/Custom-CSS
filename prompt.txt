@@ -1,0 +1,3 @@
+in this selected text change px to rem "do not change aout side selected"
+
+declare till 450rem like above classes
